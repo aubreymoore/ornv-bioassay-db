@@ -1,6 +1,6 @@
 # ornv-bioassay-db
 
-Repository: <https://github.com/aubreymoore/ornv-bioassay-db/>
+GitHub repository: <https://github.com/aubreymoore/ornv-bioassay-db/>
 
 GitHub pages: <https://aubreymoore.github.io/ornv-bioassay-db/>
 <hr>
