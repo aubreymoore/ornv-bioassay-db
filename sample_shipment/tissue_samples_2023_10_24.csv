@@ -1,4 +1,9 @@
 batch,tube_number,specimen_id,date_collected,site,sex,date_dosed,treatment,date_dead,pm_mites,pm_nema,pm_heartbeat
+EXTRA,101,454,2023-08-21,"Leo Palace Golf Course, Guam",m,2023-08-31,V23B,2023-10-19,0,0,1
+EXTRA,102,445,2023-08-21,"Leo Palace Golf Course, Guam",m,2023-08-31,X2B,2023-10-19,0,0,1
+EXTRA,103,446,2023-08-21,"Leo Palace Golf Course, Guam",m,2023-08-31,DUG42,2023-10-19,0,0,1
+EXTRA,104,386,2023-08-16,"Leo Palace Golf Course, Guam",f,2023-08-31,X2B,2023-10-19,0,0,1
+GUAM 202309,51,79,2023-07-20,"Leo Palace Golf Course, Guam",m,2023-08-04,CONTROL,2023-09-07,0,0,1
 GUAM 202309,52,91,2023-07-20,"Leo Palace Golf Course, Guam",f,2023-08-24,DUG42,2023-10-06,1,0,1
 GUAM 202309,53,205,2023-08-02,"Leo Palace Golf Course, Guam",f,2023-08-15,X2B,2023-10-06,0,1,1
 GUAM 202309,54,441,2023-08-21,"Leo Palace Golf Course, Guam",f,2023-08-31,V23B,2023-10-09,0,0,0
@@ -15,6 +20,7 @@ GUAM 202309,64,104,2023-07-24,"Leo Palace Golf Course, Guam",m,2023-08-24,DUG42,
 GUAM 202309,65,171,2023-07-29,"Leo Palace Golf Course, Guam",m,2023-08-15,PNG,2023-10-11,0,1,0
 GUAM 202309,66,111,2023-07-24,"Leo Palace Golf Course, Guam",f,2023-08-24,X2B,2023-10-12,0,1,1
 GUAM 202309,67,92,2023-07-20,"Leo Palace Golf Course, Guam",m,2023-08-15,DUG42,2023-10-12,1,0,1
+GUAM 202309,68,181,2023-07-31,"Leo Palace Golf Course, Guam",m,2023-08-15,PNG,0000-00-00,0,1,1
 GUAM 202309,69,175,2023-07-31,"Leo Palace Golf Course, Guam",f,2023-08-24,CONTROL,2023-10-13,0,1,1
 GUAM 202309,70,105,2023-07-24,"Leo Palace Golf Course, Guam",m,2023-08-15,DUG42,2023-10-13,0,1,1
 GUAM 202309,71,119,2023-07-24,"Leo Palace Golf Course, Guam",f,2023-08-15,V23B,2023-10-13,1,0,1
@@ -38,6 +44,7 @@ GUAM 202309,88,323,2023-08-11,"Leo Palace Golf Course, Guam",f,2023-08-31,V23B,2
 GUAM 202309,89,375,2023-08-16,"Leo Palace Golf Course, Guam",f,2023-08-31,PNG,2023-10-19,0,0,1
 GUAM 202309,90,400,2023-08-19,"Leo Palace Golf Course, Guam",f,2023-08-31,PNG,2023-10-19,0,0,1
 GUAM 202309,91,376,2023-08-16,"Leo Palace Golf Course, Guam",m,2023-08-31,X2B,2023-10-19,0,1,1
+GUAM 202309,92,392,2023-08-19,"Leo Palace Golf Course, Guam",f,2023-08-31,CONTROL,0000-00-00,0,1,1
 GUAM 202309,93,383,2023-08-16,"Leo Palace Golf Course, Guam",f,2023-08-31,V23B,2023-10-19,0,1,1
 GUAM 202309,94,423,2023-08-21,"Leo Palace Golf Course, Guam",f,2023-08-31,PNG,2023-10-19,0,0,1
 GUAM 202309,95,437,2023-08-21,"Leo Palace Golf Course, Guam",m,2023-08-31,DUG42,2023-10-19,0,0,1
@@ -46,7 +53,3 @@ GUAM 202309,97,364,2023-08-14,"Leo Palace Golf Course, Guam",m,2023-08-31,PNG,20
 GUAM 202309,98,451,2023-08-21,"Leo Palace Golf Course, Guam",f,2023-08-31,X2B,2023-10-19,0,0,1
 GUAM 202309,99,369,2023-08-14,"Leo Palace Golf Course, Guam",f,2023-08-31,X2B,2023-10-19,0,1,1
 GUAM 202309,100,449,2023-08-21,"Leo Palace Golf Course, Guam",m,2023-08-31,PNG,2023-10-19,0,0,1
-GUAM 202309,101,454,2023-08-21,"Leo Palace Golf Course, Guam",m,2023-08-31,V23B,2023-10-19,0,0,1
-GUAM 202309,102,445,2023-08-21,"Leo Palace Golf Course, Guam",m,2023-08-31,X2B,2023-10-19,0,0,1
-GUAM 202309,103,446,2023-08-21,"Leo Palace Golf Course, Guam",m,2023-08-31,DUG42,2023-10-19,0,0,1
-GUAM 202309,104,386,2023-08-16,"Leo Palace Golf Course, Guam",f,2023-08-31,X2B,2023-10-19,0,0,1
